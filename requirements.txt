@@ -1,0 +1,9 @@
+ipykernel
+datasets
+langchain
+langchain-astradb
+openai
+tiktoken
+PyPDF2
+astrapy
+dotenv
